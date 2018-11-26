@@ -1,6 +1,6 @@
 ---
 title: Syncfusion DataGrid
-repo: syncfusion/ej2-grids
+repo: syncfusion/ej2-javascript-ui-controls/tree/master/controls/grids
 homepage: http://www.Syncfusion.com
 examples: https://www.syncfusion.com/javascript-ui-controls/grid
 license: syncfusion license
