@@ -1,12 +1,12 @@
 ---
 title: SlickGrid
-repo: mleibman/SlickGrid
-direct: https://github.com/mleibman/SlickGrid
-homepage: https://github.com/mleibman/SlickGrid
-examples: https://github.com/mleibman/SlickGrid/wiki/Examples
+repo: 6pac/SlickGrid
+direct: https://github.com/6pac/SlickGrid
+homepage: https://github.com/6pac/SlickGrid
+examples: https://github.com/6pac/SlickGrid/wiki/Examples
 license: MIT
-bower: x-slickgrid
-npm: n/a
+bower: SlickGrid-6pac
+npm: slickgrid
 technology:
 leading technology:
 author: Michael Leibman
@@ -20,6 +20,7 @@ SlickGrid is an advanced JavaScript grid/spreadsheet component which enables: Ad
 
 * Adaptive virtual scrolling (handle hundreds of thousands of rows with extreme responsiveness)
 * Extremely fast rendering speed
+* Frozen rows and columns support
 * Supports jQuery UI Themes
 * Background post-rendering for richer cells
 * Configurable & customizable
@@ -32,6 +33,12 @@ SlickGrid is an advanced JavaScript grid/spreadsheet component which enables: Ad
 * Advanced detached & multi-field editors with undo/redo support.
 * "GlobalEditorLock" to manage concurrent edits in cases where multiple Views on a page can edit the same data.
 * Support for millions of rows
+
+#### Maintenance
+
+This is the acknowledged current master repository for SlickGrid since the MLeibman branch ceased being maintained. It builds on the current state of the mleibman/SlickGrid master branch, keeping libraries up to date and applying small, safe core patches and enhancements without turning into a personalised build.
+
+Ben McIntyre (6pac) has maintained and continuously supported SlickGrid from before 2014 when the original SlickGrid creator had to cease support due to personal circumstances. See also the original creator's repo info page at https://github.com/mleibman/SlickGrid#welcome-to-slickgrid.
 
 #### Preview:
 
