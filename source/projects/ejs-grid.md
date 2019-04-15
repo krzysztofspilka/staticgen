@@ -1,13 +1,13 @@
 ---
 title: Syncfusion DataGrid
-repo: syncfusion/ej2-grids
+repo: syncfusion/ej2-javascript-ui-controls/tree/master/controls/grids
 homepage: http://www.Syncfusion.com
-examples: https://www.syncfusion.com/javascript-ui-controls/grid
-license: syncfusion license
+examples: https://ej2.syncfusion.com/demos/#/material/grid/grid-overview.html
+license: Syncfusion license
 npm: \@syncfusion/ej2-grids
 technology: JavaScript, Angular, React, Vue, ASP.NET MVC and ASP.NET Core
 author: Syncfusion
-authorurl: http://www.Syncfusion.com
+authorurl: http://www.syncfusion.com
 description: A high-performance HTML5 JavaScript (JS) DataGrid component has built-in support for editing, Excel-like filtering, grouping, paging, sorting, and Excel export.
 ---
 
