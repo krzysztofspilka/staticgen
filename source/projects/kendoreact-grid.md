@@ -6,7 +6,7 @@ homepage: https://www.kendoreact.com
 examples: https://www.telerik.com/kendo-react-ui/components/grid/
 license: KendoReact License
 bower: n/a
-npm: @progress/kendo-react-grid
+npm: \@progress/kendo-react-grid
 technology: React
 leading technology: React
 author: Telerik
