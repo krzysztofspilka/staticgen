@@ -35,7 +35,7 @@ Powerful and fast Data Grid built from the ground-up for React. Zero dependencie
 #### Preview:
 
 ##### KendoReact Grid with Sorting, Paging, Filtering, and Grouping
-![KendoReact Grid with Sorting, Paging, Filtering, and Grouping](/images/libraries/kendoreact-grid/kendoreact-grid-features-enabled.png "KendoReact Grid with Sorting, Paging, Filtering, and Groupingr")
+![KendoReact Grid with Sorting, Paging, Filtering, and Grouping](/images/libraries/kendoreact-grid/kendoreact-grid-features-enabled.png "KendoReact Grid with Sorting, Paging, Filtering, and Grouping")
 
 ##### KendoReact Grid with Row & Column Virtualization
 ![kendoreact grid with row and column virtualization](/images/libraries/kendoreact-grid/kendoreact-grid-virtualization.gif "kendoreact grid with row and column virtualization")
