@@ -1,7 +1,7 @@
 ---
 title: jExcel Spreadsheet
-repo: paulhodel/jexcel
-direct: https://github.com/paulhodel/jexcel
+repo: jspreadsheet/jexcel
+direct: https://github.com/jspreadsheet/jexcel
 homepage: http://www.bossanova.uk/jexcel
 examples:  http://www.bossanova.uk/jexcel
 license: MIT
