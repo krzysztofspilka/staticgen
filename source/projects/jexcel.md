@@ -24,8 +24,8 @@ description: excel is a very light jquery plugin to embed a spreadsheet, compati
 
 #### Download:
 
-[Githut](http://github.com/paulhodel/jexcel)
-[Download](https://github.com/paulhodel/jexcel/archive/master.zip)
+[Githut](http://github.com/jspreadsheet/jexcel)
+[Download](https://github.com/jspreadsheet/jexcel/archive/master.zip)
 
 #### Usage:
 ```html
@@ -77,4 +77,4 @@ We are working hard to create a better plugin, but jExcel is under development. 
 * Pagination
 * Online work collaboration
 
-More suggestions are welcome. Please send your comments in our Github page. 
+More suggestions are welcome. Please send your comments in our Github page.
