@@ -1,16 +1,9 @@
 ---
 title: jExcel Spreadsheet
-<<<<<<< Updated upstream
-repo: paulhodel/jexcel
-direct: https://github.com/paulhodel/jexcel
-homepage: http://www.bossanova.uk/jexcel
-examples:  http://www.bossanova.uk/jexcel
-=======
 repo: jspreadsheet/ce
 direct: https://github.com/jspreadsheet/ce
 homepage: https://bossanova.uk/jspreadsheet
 examples:  https://bossanova.uk/jspreadsheet
->>>>>>> Stashed changes
 license: MIT
 technology: Javascript, Jquery, Web Component
 leading technology: Javascript
@@ -29,13 +22,8 @@ description: excel is a very light jquery plugin to embed a spreadsheet, compati
 
 #### Download:
 
-<<<<<<< Updated upstream
-[Githut](http://github.com/paulhodel/jexcel)
-[Download](https://github.com/paulhodel/jexcel/archive/master.zip)
-=======
 [Githut](http://github.com/jspreadsheet/ce)
 [Download](https://github.com/jspreadsheet/ce/archive/master.zip)
->>>>>>> Stashed changes
 
 #### Usage:
 ```html
@@ -88,4 +76,4 @@ We are working hard to create a better plugin, but jExcel is under development. 
 * Pagination
 * Online work collaboration
 
-More suggestions are welcome. Please send your comments in our Github page. 
+More suggestions are welcome. Please send your comments in our Github page.

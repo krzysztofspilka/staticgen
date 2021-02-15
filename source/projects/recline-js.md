@@ -1,16 +1,16 @@
 ---
 title: Recline.js
-repo: okfn/recline
-direct: https://github.com/okfn/recline
-homepage: http://okfnlabs.org/recline
-examples: http://okfnlabs.org/recline/demos
+repo: datopian/recline
+direct: https://github.com/datopian/recline
+homepage: https://tech.datopian.com/data-explorer
+examples: https://tech.datopian.com/data-explorer
 license: MIT
 bower: n/a
 npm: reclinejs
 technology: jQuery, underscore, backbone, mustache
 leading technology: jQuery
 author: Open Knowledge
-authorurl: https://okfn.org/
+authorurl: http://reclinejs.com
 description: Library for building data applications in pure JavaScript and HTML.
 ---
 
