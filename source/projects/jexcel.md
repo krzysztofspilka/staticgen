@@ -1,9 +1,16 @@
 ---
 title: jExcel Spreadsheet
+<<<<<<< Updated upstream
 repo: paulhodel/jexcel
 direct: https://github.com/paulhodel/jexcel
 homepage: http://www.bossanova.uk/jexcel
 examples:  http://www.bossanova.uk/jexcel
+=======
+repo: jspreadsheet/ce
+direct: https://github.com/jspreadsheet/ce
+homepage: https://bossanova.uk/jspreadsheet
+examples:  https://bossanova.uk/jspreadsheet
+>>>>>>> Stashed changes
 license: MIT
 technology: Javascript, Jquery, Web Component
 leading technology: Javascript
@@ -11,8 +18,6 @@ author: Paul Hodel
 authorurl: https://www.linkedin.com/in/paulhodel
 description: excel is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to the table from a JS array, json or even a CSV file. You can copy and paste from or to Excel straight to jExcel. You can easily integrate with third party jquery plugins to create your own custom colums, custom editors, and others. And, it has a plenty of nice features such as key-value dropdown, CSV loading/exporting, multiple spreadsheets and much more. We have a large roadmap ahead and we are constantly improving, so don't forget to send us your ideas.
 ---
-
-# [![Build Status](http://www.bossanova.uk/templates/default/img/logo-jexcel.png)](http://www.bossanova.uk/jexcel)
 
 #### Advantages
 
@@ -24,27 +29,33 @@ description: excel is a very light jquery plugin to embed a spreadsheet, compati
 
 #### Download:
 
+<<<<<<< Updated upstream
 [Githut](http://github.com/paulhodel/jexcel)
 [Download](https://github.com/paulhodel/jexcel/archive/master.zip)
+=======
+[Githut](http://github.com/jspreadsheet/ce)
+[Download](https://github.com/jspreadsheet/ce/archive/master.zip)
+>>>>>>> Stashed changes
 
 #### Usage:
 ```html
 <html>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://bossanova.uk/jspreadsheet/v4/jexcel.js"></script>
+<link rel="stylesheet" href="https://bossanova.uk/jspreadsheet/v4/jexcel.css" type="text/css" />
 
-<script src="http://cdn.bossanova.uk/js/jquery.jexcel.js"></script>
-<link rel="stylesheet" href="http://cdn.bossanova.uk/css/jquery.jexcel.css" type="text/css" />
-
-<div id="my"></div>
+<div id="spreadsheet"></div>
 
 <script>
-data = [
-    ['Google', 1998, 807.80],
-    ['Apple', 1976, 116.52],
-    ['Yahoo', 1994, 38.66],
+var data = [
+  ['Google', 1998, 807.80],
+  ['Apple', 1976, 116.52],
+  ['Yahoo', 1994, 38.66],
 ];
 
-$('#my').jexcel({ data:data, colWidths: [ 300, 80, 100 ] });
+jspreadsheet(document.getElementById('spreadsheet'), {
+  data: data,
+  colWidths: [ 300, 80, 100 ],
+});
 </script>
 </html>
 ```
@@ -56,16 +67,16 @@ $('#my').jexcel({ data:data, colWidths: [ 300, 80, 100 ] });
 
 #### Examples:
 
-* [Creating a table from an external CSV file](http://www.bossanova.uk/jexcel/creating-a-table-from-an-external-csv-file)
-* [Calendar column type](/jexcel/using-a-calendar-column-type)
-* [Sorting by column](http://www.bossanova.uk/jexcel/reorder)
-* [Multiple spreadsheets in the same page](/jexcel/multiple-spreadsheets-in-the-same-page)
-* [Integrating a third party plugin into jExcel](http://www.bossanova.uk/jexcel/integrating-a-third-party-plugin-into-your-spreadsheet)
-* [Currency and masking numbers](http://www.bossanova.uk/jexcel/currency-and-masking-numbers)
-* [Working with dropdowns](http://www.bossanova.uk/jexcel/working-with-dropdowns)
-* [Handling events](http://www.bossanova.uk/jexcel/tracking-changes-on-the-spreadsheet)
-* [Including formulas on your spreadsheet](http://www.bossanova.uk/jexcel/including-formulas-on-your-spreadsheet)
-* [Remote updates](http://www.bossanova.uk/jexcel/remote-updates)
+* [Creating a table from an external CSV file](https://www.bossanova.uk/jexcel/creating-a-table-from-an-external-csv-file)
+* [Calendar column type](https://www.bossanova.uk/jexcel/using-a-calendar-column-type)
+* [Sorting by column](https://www.bossanova.uk/jexcel/reorder)
+* [Multiple spreadsheets in the same page](https://www.bossanova.uk/jexcel/multiple-spreadsheets-in-the-same-page)
+* [Integrating a third party plugin into jExcel](https://www.bossanova.uk/jexcel/integrating-a-third-party-plugin-into-your-spreadsheet)
+* [Currency and masking numbers](https://www.bossanova.uk/jexcel/currency-and-masking-numbers)
+* [Working with dropdowns](https://www.bossanova.uk/jexcel/working-with-dropdowns)
+* [Handling events](https://www.bossanova.uk/jexcel/tracking-changes-on-the-spreadsheet)
+* [Including formulas on your spreadsheet](https://www.bossanova.uk/jexcel/including-formulas-on-your-spreadsheet)
+* [Remote updates](https://www.bossanova.uk/jexcel/remote-updates)
 
 #### Roadmap:
 
