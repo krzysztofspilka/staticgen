@@ -1,6 +1,6 @@
 ---
 title: Luckysheet
-repo: engshukeji/Luckysheet
+repo: mengshukeji/Luckysheet
 direct: https://github.com/mengshukeji/Luckysheet
 homepage: https://mengshukeji.github.io/LuckysheetDocs
 examples: https://mengshukeji.github.io/LuckysheetDemo
@@ -14,7 +14,7 @@ description: Luckysheet is an online spreadsheet like excel that is powerful, si
 ---
 
 ## Introduction
-🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+🚀 Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 
 ## Plugins
 - [Luckyexcel](https://github.com/mengshukeji/Luckyexcel): Excel import and export library
@@ -22,19 +22,11 @@ description: Luckysheet is an online spreadsheet like excel that is powerful, si
 
 ## Ecosystem
 
-| Project | Description |
-|---------|-------------|
-| [Luckysheet Vue]          | Luckysheet and Luckyexcel in a vue cli3 project |
-| [Luckysheet React]          | Luckysheet in a React project |
-| [Luckyexcel Node]          | Use Luckyexcel in koa2 |
-| [Luckysheet Server]          | Java backend Luckysheet Server |
-| [Luckysheet Server Starter]          | LuckysheetServer docker deployment startup template |
-
-[Luckysheet Vue]: https://github.com/mengshukeji/luckysheet-vue
-[Luckysheet React]: https://github.com/mengshukeji/luckysheet-react
-[Luckyexcel Node]: https://github.com/mengshukeji/Luckyexcel-node
-[Luckysheet Server]: https://github.com/mengshukeji/LuckysheetServer
-[Luckysheet Server Starter]: https://github.com/mengshukeji/LuckysheetServerStarter
+- [Luckysheet Vue](https://github.com/mengshukeji/luckysheet-vue)
+- [Luckysheet React](https://github.com/mengshukeji/luckysheet-react)
+- [Luckyexcel Node](https://github.com/mengshukeji/Luckyexcel-node)
+- [Luckysheet Server](https://github.com/mengshukeji/LuckysheetServer)
+- [Luckysheet Server Starter](https://github.com/mengshukeji/LuckysheetServerStarter)
 
 ## Features
 
