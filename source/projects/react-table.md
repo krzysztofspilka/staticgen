@@ -1,6 +1,6 @@
 ---
 title: React Table
-repo: tannerlinsley/react-table
+repo: TanStack/react-table
 homepage: https://github.com/TanStack/react-table
 examples: https://github.com/TanStack/react-table/tree/master/docs/examples.md
 license: MIT/Commercial
