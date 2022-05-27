@@ -1,8 +1,8 @@
 ---
 title: React Table
-repo: TanStack/react-table
-homepage: https://github.com/TanStack/react-table
-examples: https://github.com/TanStack/react-table/tree/master/docs/examples.md
+repo: TanStack/table
+homepage: https://github.com/TanStack/table
+examples: https://github.com/TanStack/table/tree/master/docs/examples.md
 license: MIT/Commercial
 author: Tanner Linsley
 authorurl: https://github.com/TanStack
@@ -30,10 +30,10 @@ Hooks for building **lightweight, fast and extendable datagrids** for React
 
 ## Documentation
 
-- [Installation](https://github.com/TanStack/react-table/blob/master/docs/installation.md) - Walk through how to install React Table
-- [Concepts](https://github.com/TanStack/react-table/blob/master/docs/concepts.md) - Read how React Table works and how you can use it better
-- [Examples](https://github.com/TanStack/react-table/blob/master/docs/examples.md) - Experience and learn from some examples and guides of how to use React Table and implement common patterns
-- [API](https://github.com/TanStack/react-table/blob/master/docs/api/README.md) - Get to know React Table's API
-- [Previous Versions](https://github.com/TanStack/react-table#previous-versions)
-- [Contributing](https://github.com/TanStack/react-table/blob/master/CONTRIBUTING.md) - Become familiar with how to contribute back to React Table
-- [Code of Conduct](https://github.com/TanStack/react-table/blob/master/CODE_OF_CONDUCT.md) - Be a good React Table citizen by following these repository rules
+- [Installation](https://github.com/TanStack/table/blob/master/docs/installation.md) - Walk through how to install React Table
+- [Concepts](https://github.com/TanStack/table/blob/master/docs/concepts.md) - Read how React Table works and how you can use it better
+- [Examples](https://github.com/TanStack/table/blob/master/docs/examples.md) - Experience and learn from some examples and guides of how to use React Table and implement common patterns
+- [API](https://github.com/TanStack/table/blob/master/docs/api/README.md) - Get to know React Table's API
+- [Previous Versions](https://github.com/TanStack/table#previous-versions)
+- [Contributing](https://github.com/TanStack/table/blob/master/CONTRIBUTING.md) - Become familiar with how to contribute back to React Table
+- [Code of Conduct](https://github.com/TanStack/table/blob/master/CODE_OF_CONDUCT.md) - Be a good React Table citizen by following these repository rules
