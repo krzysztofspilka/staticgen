@@ -5,7 +5,7 @@ direct: https://github.com/ruilisi/fortune-sheet
 homepage: https://ruilisi.github.io/fortune-sheet-demo
 examples: https://ruilisi.github.io/fortune-sheet-demo
 license: MIT
-npm: @fortune-sheet/react
+npm: \@fortune-sheet/react
 technology: TypeScript
 leading technology: javascript
 author: Suzhou Ruilisi Technology Co., Ltd
