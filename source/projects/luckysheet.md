@@ -1,15 +1,15 @@
 ---
 title: Luckysheet
-repo: mengshukeji/Luckysheet
-direct: https://github.com/mengshukeji/Luckysheet
-homepage: https://mengshukeji.github.io/LuckysheetDocs
-examples: https://mengshukeji.github.io/LuckysheetDemo
+repo: dream-num/Luckysheet
+direct: https://github.com/dream-num/Luckysheet
+homepage: https://dream-num.github.io/LuckysheetDocs/
+examples: https://dream-num.github.io/LuckysheetDemo/
 license: MIT
 npm: gulp
-technology: java (Bacnkend), javascript and JQuery (Frontend)
+technology: java (Backend), javascript and JQuery (Frontend)
 leading technology: javascript
 author: MengShu Open Source
-authorurl: https://mengshukeji.github.io
+authorurl: https://dream-num.github.io
 description: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 ---
 
@@ -17,16 +17,16 @@ description: Luckysheet is an online spreadsheet like excel that is powerful, si
 🚀 Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 
 ## Plugins
-- [Luckyexcel](https://github.com/mengshukeji/Luckyexcel): Excel import and export library
-- [chartMix](https://github.com/mengshukeji/chartMix): Chart plugin
+- [Luckyexcel](https://github.com/dream-num/Luckyexcel): Excel import and export library
+- [chartMix](https://github.com/dream-num/chartMix): Chart plugin
 
 ## Ecosystem
 
-- [Luckysheet Vue](https://github.com/mengshukeji/luckysheet-vue)
-- [Luckysheet React](https://github.com/mengshukeji/luckysheet-react)
-- [Luckyexcel Node](https://github.com/mengshukeji/Luckyexcel-node)
-- [Luckysheet Server](https://github.com/mengshukeji/LuckysheetServer)
-- [Luckysheet Server Starter](https://github.com/mengshukeji/LuckysheetServerStarter)
+- [Luckysheet Vue](https://github.com/dream-num/luckysheet-vue)
+- [Luckysheet React](https://github.com/dream-num/luckysheet-react)
+- [Luckyexcel Node](https://github.com/dream-num/Luckyexcel-node)
+- [Luckysheet Server](https://github.com/dream-num/LuckysheetServer)
+- [Luckysheet Server Starter](https://github.com/dream-num/LuckysheetServerStarter)
 
 ## Features
 
@@ -38,4 +38,4 @@ description: Luckysheet is an online spreadsheet like excel that is powerful, si
 - **Tables**: filter, sort
 - **Enhanced functions**: Pivot tables, charts, comments, cooperative editing, insert picture, matrix calculations, screenshots, copying to other formats, EXCEL import and export, etc.
 
-For a more detailed feature list, please refer to: [Features](https://mengshukeji.github.io/LuckysheetDocs/guide/#features)
+For a more detailed feature list, please refer to: [Features](https://dream-num.github.io/LuckysheetDocs/guide/#features)
