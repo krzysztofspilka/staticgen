@@ -1,7 +1,7 @@
 ---
-title: flexicious-react-datagrid
-repo: flexicious/react-datagrid
-direct: https://github.com/flexicious/react-datagrid
+title: flexicious-react-data-grid
+repo: flexicious/react-data-grid
+direct: https://github.com/flexicious/react-data-grid
 homepage: http://reactdatagrid.com
 examples: http://reactdatagrid.com/#demo
 license: Commercial
@@ -17,17 +17,17 @@ description: The most powerful Enterprise grade pure REACT datagrid component.
 Our ReactDataGrid is a DataGrid/TreeGrid component built to render highly complex, Hierarchical/Nested as well as Flat Data in React based HTML5/JavaScript Line Of Business RIA applications, with a massive set of features Right Out Of The Box.
 We have been building Datagrid components for almost a decade now and this is our latest addition.
 
-####A large number of features right out of the box. 
+####A large number of features right out of the box.
 
-* Inline Filters 
-* Summary Footers 
+* Inline Filters
+* Summary Footers
 * Fully Customizable Server/Client Paging
-* DataGrid Print 
-* Excel Export 
-* Word Export and User Settings Persistence 
-* Smooth Scroll 
-* Nested hierarchical Tree/Child grids 
-* Right Locked columns 
+* DataGrid Print
+* Excel Export
+* Word Export and User Settings Persistence
+* Smooth Scroll
+* Nested hierarchical Tree/Child grids
+* Right Locked columns
 * Built in Lazy Load support
 
 
@@ -44,5 +44,3 @@ We have been building Datagrid components for almost a decade now and this is ou
 
 ##### Flexicious simple-grid
 ![flexicious grid simple-grid ](/images/libraries/flexicious-react-datagrid/flexicious-react-grid-simple.png "flexicious simple-grid")
-
-
