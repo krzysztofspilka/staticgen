@@ -6,7 +6,9 @@
   "main": "shipitfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "shipit production deploy"
+    "deploy": "shipit production deploy",
+    "install": "bundle install",
+    "build": "bundle exec middleman build"
   },
   "repository": {
     "type": "git",
