@@ -6,13 +6,14 @@ examples: http://6pac.github.io/SlickGrid/examples/example4-model.html
 license: MIT
 author: Michael Leibman/Ben McIntyre
 authorurl: http://slickgrid.net/History.html
-description: SlickGrid is a fully open-source, JavaScript, client-side grid control, based on jQuery and jQueryUI and compatible with Bootstrap.
+description: SlickGrid is a fully open-source, native JavaScript, client-side grid control, and compatible with any UI frameworks like Bootstrap.
 ---
 
-SlickGrid is a fully open-source, JavaScript, client-side grid control, 
-based on jQuery and jQueryUI and compatible with Bootstrap.
-The grid is designed to take an external component as a datasource, 
-and that means SlickGrid should be compatible with a wide range of 
+SlickGrid is a fully open-source, native JavaScript, client-side grid control, 
+using native browser code (originally, but no longer, based on jQuery and jQueryUI) 
+and compatible with any UI libraries like Bootstrap.
+The grid is designed to take an external component as a datasource,
+and that means SlickGrid should be compatible with a wide range of
 modern data-centric frameworks.
 
 #### Features Overview
@@ -31,6 +32,9 @@ modern data-centric frameworks.
 * Advanced detached & multi-field editors with undo/redo support.
 * "GlobalEditorLock" to manage concurrent edits in cases where multiple Views on a page can edit the same data.
 * Support for millions of rows
+* Composite Editor Modal
+* Custom Tooltips
+* Context Menu / Cell Menu
 
 #### Preview
 
@@ -48,3 +52,7 @@ modern data-centric frameworks.
 ![Slickgrid row selection with checkbox](/images/libraries/slickgrid/row-selection-with-checkbox.png "Slickgrid row selection with checkbox")
 ##### Tree grid
 ![Slickgrid tree grid](/images/libraries/slickgrid/tree-grid.png "Slickgrid tree grid")
+##### Row detail
+![Slickgrid row detail](/images/libraries/slickgrid/row-detail.png "Slickgrid row detail")
+##### Context Menu / Cell Menu
+![Slickgrid context cell menus](/images/libraries/slickgrid/context-menu.png "Slickgrid context cell menus")

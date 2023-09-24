@@ -50,6 +50,10 @@ Take a look at the multiple [demos](https://ghiscoding.github.io/Angular-Slickgr
 * Custom Column Filters with Angular Component
 * Custom Cell Editors with Angular Component
 * Custom AsyncPostRender with Angular Component
+* Composite Editor Modal
+* Custom Tooltips
+* Context Menu / Cell Menu
+* Tree Data (parent/child or hierarchical dataset)
 
 #### Preview:
 
@@ -77,3 +81,9 @@ Screenshots from the demo app with the `Bootstrap` theme (that is the only avail
 ###### Comes with OData & GraphQL support (you can implement custom too)
 
 ![Slickgrid Server Side](/images/libraries/angular-slickgrid/pagination.png)
+
+##### Composite Editor
+![Slickgrid composite editor](/images/libraries/angular-slickgrid/composite-editor.png "Slickgrid composite editor")
+
+##### Tree Data (parent/child or hierarchical dataset)
+![Slickgrid tree data](/images/libraries/angular-slickgrid/tree-data.png "Slickgrid tree data")
