@@ -1,24 +1,27 @@
 ---
-title: jExcel Spreadsheet
+title: Jspreadsheet CE
 repo: jspreadsheet/ce
 direct: https://github.com/jspreadsheet/ce
 homepage: https://bossanova.uk/jspreadsheet
 examples:  https://bossanova.uk/jspreadsheet
 license: MIT
-technology: Javascript, Jquery, Web Component
+technology: Javascript, Jquery, Web Components
 leading technology: Javascript
-author: Paul Hodel
-authorurl: https://www.linkedin.com/in/paulhodel
-description: excel is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to the table from a JS array, json or even a CSV file. You can copy and paste from or to Excel straight to jExcel. You can easily integrate with third party jquery plugins to create your own custom colums, custom editors, and others. And, it has a plenty of nice features such as key-value dropdown, CSV loading/exporting, multiple spreadsheets and much more. We have a large roadmap ahead and we are constantly improving, so don't forget to send us your ideas.
+author: Jspreadsheet
+authorurl: https://jspreadsheet.com
+description: Jspreadsheet is a lightweight JavaScript plugin that help developers to create exceptional web-based interactive data grid with spreadsheet controls.
 ---
 
 #### Advantages
 
-* Make rich web applications
-* Improve your clients software experience
-* Better CRUDS and beautiful UI
-* Compatibility with excel, just copy and paste
-* Powerful customizations
+- Make rich and user-friendly web interfaces and applications
+- Handle complicated data inputs with ease and convenience
+- Copy and paste and common spreadsheet shortcuts
+- Highly flexible and customizable
+- Lightweight and easy to use
+- Responsive controls
+- Powerful JavaScript data grid plugin
+- Agnostic platform. It works well with Angular, React, Vue.
 
 #### Download:
 
@@ -49,31 +52,59 @@ jspreadsheet(document.getElementById('spreadsheet'), {
 ```
 
 ## Screenshot
-<p align="center">
-<img src="http://bossanova.uk/templates/default/img/jexcel.png" align="center" alt="jExcel Spreadsheet"/>
-</p>
+<img src="http://bossanova.uk/templates/default/img/jexcel.gif" align="center" alt="jExcel Spreadsheet"/>
 
-#### Examples:
+## Examples:
 
-* [Creating a table from an external CSV file](https://www.bossanova.uk/jexcel/creating-a-table-from-an-external-csv-file)
-* [Calendar column type](https://www.bossanova.uk/jexcel/using-a-calendar-column-type)
-* [Sorting by column](https://www.bossanova.uk/jexcel/reorder)
-* [Multiple spreadsheets in the same page](https://www.bossanova.uk/jexcel/multiple-spreadsheets-in-the-same-page)
-* [Integrating a third party plugin into jExcel](https://www.bossanova.uk/jexcel/integrating-a-third-party-plugin-into-your-spreadsheet)
-* [Currency and masking numbers](https://www.bossanova.uk/jexcel/currency-and-masking-numbers)
-* [Working with dropdowns](https://www.bossanova.uk/jexcel/working-with-dropdowns)
-* [Handling events](https://www.bossanova.uk/jexcel/tracking-changes-on-the-spreadsheet)
-* [Including formulas on your spreadsheet](https://www.bossanova.uk/jexcel/including-formulas-on-your-spreadsheet)
-* [Remote updates](https://www.bossanova.uk/jexcel/remote-updates)
+### Spreadsheet data
+- [Create from a HTML table](https://bossanova.uk/jspreadsheet/v4/examples/create-from-table)
+- [Importing data](https://bossanova.uk/jspreadsheet/v4/examples/import-data)
+- [Headers](https://bossanova.uk/jspreadsheet/v4/examples/headers)
+- [Nested headers](https://bossanova.uk/jspreadsheet/v4/examples/nested-headers)
 
-#### Roadmap:
+### Spreadsheet formulas
+- [Formulas](https://bossanova.uk/jspreadsheet/v4/examples/spreadsheet-formulas)
+- [Formulas on table footer](https://bossanova.uk/jspreadsheet/v4/examples/footers)
 
-We are working hard to create a better plugin, but jExcel is under development. We would love to hear your ideas to make it great. We are glad to say new features are coming every day, and we are currently working in features such as:
+### Spreadsheet columns
+- [Column types](https://bossanova.uk/jspreadsheet/v4/examples/column-types)
+- [Advanced dropdown](https://bossanova.uk/jspreadsheet/v4/examples/dropdown-and-autocomplete)
+- [Date and datetime picker](https://bossanova.uk/jspreadsheet/v4/examples/date-and-datetime-picker)
+- [Images](https://bossanova.uk/jspreadsheet/v4/examples/image-upload)
+- [Richtext column](https://bossanova.uk/jspreadsheet/v4/examples/richtext-html-editor)
 
-* Merged cells
-* Multiple tabs
-* Big data (partial table loading)
-* Pagination
-* Online work collaboration
+### Spreadsheet cells
+- [Cell comments](https://bossanova.uk/jspreadsheet/v4/examples/comments)
+- [Meta information](https://bossanova.uk/jspreadsheet/v4/examples/meta-information)
+- [Readonly](https://bossanova.uk/jspreadsheet/v4/examples/readonly)
 
-More suggestions are welcome. Please send your comments in our Github page.
+### Spreadsheet integrations
+- [Webcomponent](https://bossanova.uk/jspreadsheet/v4/examples/spreadsheet-webcomponent)
+- [React Implementation](https://bossanova.uk/jspreadsheet/v4/examples/react)
+- [VUE Implementation](https://bossanova.uk/jspreadsheet/v4/examples/vue)
+- [Angular Implementation](https://bossanova.uk/jspreadsheet/v4/examples/angular)
+- [Jquery Implementation](https://bossanova.uk/jspreadsheet/v4/examples/jquery)
+
+### Spreadsheet features
+- [Custom toolbars](https://bossanova.uk/jspreadsheet/v4/examples/spreadsheet-toolbars)
+- [Using tabs](https://bossanova.uk/jspreadsheet/v4/examples/tabs)
+- [Search and pagination](https://bossanova.uk/jspreadsheet/v4/examples/datatables)
+- [Column filters](https://bossanova.uk/jspreadsheet/v4/examples/column-filters)
+- [Freeze columns](https://bossanova.uk/jspreadsheet/v4/examples/freeze-columns)
+- [Merged cells](https://bossanova.uk/jspreadsheet/v4/examples/merged-cells)
+- [Column dragging](https://bossanova.uk/jspreadsheet/v4/examples/column-dragging)
+- [Sorting columns](https://bossanova.uk/jspreadsheet/v4/examples/sorting)
+- [Custom Contextmenu](https://bossanova.uk/jspreadsheet/v4/examples/contextmenu)
+- [Lazy loading](https://bossanova.uk/jspreadsheet/v4/examples/lazy-loading)
+- [Table overflow](https://bossanova.uk/jspreadsheet/v4/examples/table-overflow)
+- [Translations](https://bossanova.uk/jspreadsheet/v4/examples/translations)
+
+### Spreadsheet features
+- [Table Updates](https://bossanova.uk/jspreadsheet/v4/examples/programmatically-updates)
+- [Table Style](https://bossanova.uk/jspreadsheet/v4/examples/table-style)
+- [Table Scripting](https://bossanova.uk/jspreadsheet/v4/examples/table-scripting)
+- [Events](https://bossanova.uk/jspreadsheet/v4/examples/events)
+
+
+## Jpreadsheet Pro
+[Jspreadsheet Pro](https://jspreadsheet.com)
