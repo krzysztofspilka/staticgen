@@ -1,11 +1,11 @@
 ---
 title: cheetah-grid
 repo: future-architect/cheetah-grid
-homepage: https://future-architect.github.io/cheetah-grid/
-examples: https://future-architect.github.io/cheetah-grid/
+homepage: https://future-architect.github.io/cheetah-grid
+examples: https://future-architect.github.io/cheetah-grid
 license: MIT
-author: Yosuke Ota
-authorurl: https://github.com/ota-meshi/
+author: Future Corporation. Japan.
+authorurl: https://www.future.co.jp
 description: The fastest open-source data table for web.
 ---
 
